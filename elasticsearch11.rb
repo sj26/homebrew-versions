@@ -1,8 +1,8 @@
 require "formula"
 
 class Elasticsearch11 < Formula
-  homepage "http://www.elasticsearch.org"
-  url "https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-1.1.2.tar.gz"
+  homepage "https://www.elastic.co/products/elasticsearch"
+  url "https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.1.2.tar.gz"
   sha1 "04200ebfc7f12c8cd144b599fa58329b0cfa9d0e"
 
   def cluster_name
